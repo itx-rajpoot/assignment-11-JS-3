@@ -10,7 +10,7 @@ document.getElementById("alert").onclick= function(){
 }
 document.getElementById("name").onclick= function(){
     if(inputBox.value == ""){
-        alert("Please Enter Your Name in inputbox!")
+        alert("Please Enter Your Name in input-box!")
         return
     }
     else{
@@ -26,7 +26,7 @@ document.getElementById("printCities").onclick= function(){
 }
 document.getElementById("addCity").onclick= function(){
     if(inputBox.value == ""){
-        alert("Please Enter City Name First in inputbox!")
+        alert("Please Enter City Name First in input-box!")
         return
     }
     else{
